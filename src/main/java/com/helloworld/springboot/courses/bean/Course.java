@@ -12,8 +12,7 @@ public class Course {
 		this.name = name;
 		this.author = author;
 	}
-		
-	public long getId() {
+			public long getId() {
 		return id;
 	}
 
